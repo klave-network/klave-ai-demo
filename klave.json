@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+      "*"
+    ],
+    "applications": [
+      {
+        "name": "klave-ai-app",
+        "description": "An AI example application for Klave",
+        "version": "0.1.0",
+        "rootDir": "/apps/klave-ai-app"
+      }
+    ]
+  }
