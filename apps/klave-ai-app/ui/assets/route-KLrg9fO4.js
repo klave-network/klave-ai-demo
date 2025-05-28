@@ -1,0 +1,1 @@
+import{j as e,O as s}from"./index-BYcoJFgG.js";import{L as t}from"./logo-BQ703iCx.js";const l=function(){return e.jsx("div",{className:"flex min-h-svh flex-col items-center justify-center gap-6 bg-muted p-6 md:p-10",children:e.jsxs("div",{className:"flex w-full max-w-sm flex-col gap-6",children:[e.jsx(t,{}),e.jsx(s,{})]})})};export{l as component};

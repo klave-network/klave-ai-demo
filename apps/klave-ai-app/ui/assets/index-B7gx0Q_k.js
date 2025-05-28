@@ -1,0 +1,1 @@
+import{j as e}from"./index-BYcoJFgG.js";const n=function(){return e.jsx("div",{className:"flex flex-col items-center h-full p-4",children:e.jsx("div",{className:"flex flex-col gap-6 items-center justify-center h-full",children:e.jsx("h2",{className:"text-2xl md:text-4xl ",children:"Select a model"})})})};export{n as component};
